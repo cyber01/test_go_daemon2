@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/dabfleming/go-martini-example/server"
+	"github.com/cyber01/test_go_daemon2/server"
 	"github.com/go-martini/martini"
 )
 

@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	_ "github.com/dabfleming/go-martini-example/controllers"
-	"github.com/dabfleming/go-martini-example/server"
+	_ "github.com/cyber01/test_go_daemon2/controllers"
+	"github.com/cyber01/test_go_daemon2/server"
 )
 
 func main() {
