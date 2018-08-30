@@ -1,1 +1,2 @@
-# test_go_daemon2
+# go-martini-example
+A simple example Go web server using Martini
