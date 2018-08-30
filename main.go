@@ -8,5 +8,5 @@ import (
 
 func main() {
 	fmt.Println("Server Started")
-	server.Server.Run()
+	server.Server.RunOnAddr(":8080")
 }
